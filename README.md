@@ -1,2 +1,2 @@
 # DataScience
-Source Code for Project and Activities Done to Learn Data Science, Machine Learning &amp; Artificial Intelligence
+My source code for Project and Activities done in Area of Data Science, Machine Learning &amp; Artificial Intelligence
